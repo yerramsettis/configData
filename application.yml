@@ -1,0 +1,6 @@
+# application.yml
+---
+eureka: 
+  client: 
+    serviceUrl: 
+      defaultZone: http://skylab:8010/eureka/
