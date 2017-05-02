@@ -22,7 +22,8 @@ words: a,the
 
 ---
 spring: 
-  profiles: adjective 
+  profiles: 
+    active: adjective 
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
